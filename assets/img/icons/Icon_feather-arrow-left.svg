@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80.712" height="19.115" viewBox="0 0 80.712 19.115">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #909399;
+        stroke-width: 3px;
+      }
+
+      .cls-1 {
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="Icon_feather-arrow-left" data-name="Icon_feather-arrow-left" transform="translate(-5.096 -8.328)">
+    <path id="Path_1" data-name="Path 1" class="cls-1" d="M85.808,18H7.5"/>
+    <path id="Path_2" data-name="Path 2" class="cls-2" d="M18,24.271,7.5,15.885l7.437-5.94L18,7.5" transform="translate(0 2)"/>
+  </g>
+</svg>
